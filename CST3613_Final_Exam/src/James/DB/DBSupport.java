@@ -11,7 +11,7 @@ public class DBSupport {
 		Properties connectProp = new Properties();
 		connectProp.put("dbms","mysql");
 		connectProp.put("user", "root");
-		connectProp.put("password","%G0d5peed");
+		connectProp.put("password","root");
 		connectProp.put("useSSL", "false");
 		
 		String P1 = "jdbc:";
