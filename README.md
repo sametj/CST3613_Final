@@ -1,4 +1,5 @@
-# CST3613_Final
+# Network Nexus Creator
+
 My final Project for CST 3613 App dav with database Class
 
 For my Final Exam for class CST 3613, students were tasked with retrieving information from sql database and using the information to build a network. 
